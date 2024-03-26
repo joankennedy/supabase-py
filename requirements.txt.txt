@@ -1,0 +1,6 @@
+streamlit
+supabase_py
+plotly.express
+pandas
+streamlit-supabase
+libgl1-mesa-glx
